@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#heb-desk-entrypoint"
+                 "value":".\/map.json#hebdeskentrypoint"
                 }],
          "type":"tilelayer",
          "visible":true,
