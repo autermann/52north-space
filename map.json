@@ -231,7 +231,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":"https:\/\/52north.org\/delivery\/workadventure\/sounds\/space.mp3"
                 }],
