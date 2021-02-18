@@ -20,7 +20,7 @@
          "height":10,
          "id":11,
          "name":"start",
-         "opacity":0,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":10,
@@ -32,12 +32,12 @@
          "height":10,
          "id":27,
          "name":"exit_52n",
-         "opacity":0,
+         "opacity":1,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/map.json#heb_desk_entrypoint"
+                 "value":".\/map.json#heb-desk-entrypoint"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -52,7 +52,7 @@
          "name":"Boden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":10,
          "x":0,
          "y":0
